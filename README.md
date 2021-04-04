@@ -7,7 +7,6 @@
   - [Purpose](#purpose)
     - [Goals](#goals)
   - [Essential Tasks](#essential-tasks)
-  - [- [ ] Upload Predictions](#----upload-predictions)
   - [The Numerai Tournament](#the-numerai-tournament)
     - [Website](#website)
     - [Introduction](#introduction)
@@ -35,6 +34,7 @@ This is the final project for **CS485: Applied Neural Networks AY21-2**. This po
 - [ ] Validate Approach
 - [ ] Prepare Predictions
 - [ ] Upload Predictions
+  
 ---
 ## The Numerai Tournament
 
