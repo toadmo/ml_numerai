@@ -34,7 +34,7 @@ This is the final project for **CS485: Applied Neural Networks, AY21-2**. This p
 - [X] Importing Data.
 - [X] Data Exploration
 - [X] Feature Engineering
-- [X] Define Model
+- [ ] Define Model
 - [ ] Validate Approach
 - [ ] Prepare Predictions
 - [ ] Upload Predictions
@@ -43,7 +43,9 @@ This is the final project for **CS485: Applied Neural Networks, AY21-2**. This p
 ## The Numerai Tournament
 
 ### Website
-[The Numerai Tournament](https://numer.ai/)
+[Numerai Tournament](https://numer.ai/)
+
+[Numerai Documentation](https://docs.numer.ai/tournament/learn)
 
 ### Introduction
 The Numerai Tournament is where you build machine learning models on abstract financial data to predict the stock market. Models will be stacked with the NMR cryptocurrency to earn rewards based on performance.
