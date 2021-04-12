@@ -12,6 +12,8 @@
     - [Introduction](#introduction)
     - [Data](#data)
     - [Scoring](#scoring)
+    - [Our Implementation:](#our-implementation)
+    - [Sources:](#sources)
 
 
 ## Contributors
@@ -72,5 +74,15 @@ The Numerai Tournamnet porvides a free dataset. It is made of high quality finan
 - **Correlation (corr)**: *The primary way users are scored.* Correlation between user predictions and targets. The higher the better.
 - **Meta Model Contribution (mmc)**: *The secondary way users are scored.* The higher the better.
 - **Feature Neutral Correlation (fnc)**: *The tertiary way users are scored.* The higher the better.
+- ***Spearman Correlation***: How well the relationship between two variables can be defined with a monotonic function. The higher the better.
 
 > Each submission will be scored over the ~4 week duration of the round. Submissions will receive its first score starting on the Thursday after the Monday deadline and final score on Wednesday 4 weeks later for a total of 20 scores. 
+
+### Our Implementation:
+
+
+
+### Sources:
+
+- [Numer.ai Website](https://numer.ai/)
+- 
