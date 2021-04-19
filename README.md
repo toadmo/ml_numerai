@@ -12,7 +12,8 @@
     - [Introduction](#introduction)
     - [Data](#data)
     - [Scoring](#scoring)
-    - [Our Implementation:](#our-implementation)
+    - [Feature Engineering:](#feature-engineering)
+    - [Our Model:](#our-model)
     - [Sources:](#sources)
 
 
@@ -78,7 +79,21 @@ The Numerai Tournamnet porvides a free dataset. It is made of high quality finan
 
 > Each submission will be scored over the ~4 week duration of the round. Submissions will receive its first score starting on the Thursday after the Monday deadline and final score on Wednesday 4 weeks later for a total of 20 scores. 
 
-### Our Implementation:
+### Feature Engineering:
+We anticipated that feature engineering would be our biggest challenge in this project for a few reasons. 
+
+1. There is a significant amount of noise in the dataset: features that do not have a high correlation with our intended output, which could cause problems while training.
+2. The obfuscation of the data results in the engineers not being able to handpick features that can be believed to be more highly correlated.
+
+To combat this, we have implemented the following:
+
+1. Feature correlation with target based on era
+2. 
+
+### Our Model:
+Due to the sequential nature of stock data, especially with different eras being present in the data set and the time-based fluctuation of a stock price being an integral determinant of whether to buy or sell a stock, we chose to implement a recurrent neural network as our model.
+
+Specifically, we chose to use LSTMs, or Long Short Term Memory cells, that, when compared to their counterpart the GRU, take longer to train but often yield improved performance. Due to the nature of our project being throughout the cource of a semester, we figured that we would have enough time to tune an implementation with LSTMs.
 
 
 

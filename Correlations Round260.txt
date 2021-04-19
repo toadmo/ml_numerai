@@ -1,0 +1,1560 @@
+Top 10 Features in era1 according to correlation with target:
+feature_constitution86    0.074458
+feature_constitution94    0.074124
+feature_charisma37        0.071911
+feature_charisma21        0.066551
+feature_constitution89    0.063447
+feature_charisma30        0.063362
+feature_charisma53        0.063316
+feature_constitution23    0.063120
+feature_charisma28        0.062972
+feature_dexterity14       0.062652
+Name: target, dtype: float64
+
+Top 10 Features in era2 according to correlation with target:
+feature_charisma9         0.063362
+feature_strength31        0.062499
+feature_constitution71    0.060749
+feature_constitution53    0.059399
+feature_charisma69        0.059360
+feature_charisma74        0.056640
+feature_charisma44        0.047427
+feature_strength25        0.046962
+feature_constitution99    0.046711
+feature_constitution51    0.041985
+Name: target, dtype: float64
+
+Top 10 Features in era3 according to correlation with target:
+feature_constitution88    0.056548
+feature_constitution90    0.052038
+feature_constitution53    0.049807
+feature_constitution76    0.047398
+feature_constitution89    0.045753
+feature_constitution18    0.043487
+feature_dexterity7        0.042762
+feature_constitution71    0.041561
+feature_strength24        0.041314
+feature_dexterity4        0.040804
+Name: target, dtype: float64
+
+Top 10 Features in era4 according to correlation with target:
+feature_dexterity12       0.060675
+feature_charisma58        0.054579
+feature_dexterity14       0.053830
+feature_intelligence12    0.051341
+feature_wisdom23          0.050503
+feature_dexterity7        0.050407
+feature_intelligence5     0.048540
+feature_strength3         0.046252
+feature_charisma75        0.046156
+feature_constitution3     0.043532
+Name: target, dtype: float64
+
+Top 10 Features in era5 according to correlation with target:
+feature_strength34    0.075450
+feature_strength14    0.069112
+feature_wisdom11      0.068286
+feature_wisdom6       0.064251
+feature_wisdom23      0.064222
+feature_charisma67    0.062953
+feature_strength25    0.058021
+feature_strength31    0.056149
+feature_charisma26    0.054146
+feature_dexterity4    0.050774
+Name: target, dtype: float64
+
+Top 10 Features in era6 according to correlation with target:
+feature_strength3         0.069610
+feature_constitution76    0.066080
+feature_strength4         0.059837
+feature_strength1         0.057356
+feature_constitution18    0.057222
+feature_wisdom33          0.054511
+feature_constitution97    0.053781
+feature_strength19        0.052760
+feature_wisdom24          0.051142
+feature_strength21        0.050668
+Name: target, dtype: float64
+
+Top 10 Features in era7 according to correlation with target:
+feature_charisma74        0.053550
+feature_dexterity11       0.051366
+feature_dexterity4        0.048745
+feature_charisma44        0.048463
+feature_wisdom12          0.047189
+feature_constitution88    0.044023
+feature_charisma36        0.043983
+feature_dexterity6        0.043766
+feature_constitution83    0.042847
+feature_charisma21        0.042582
+Name: target, dtype: float64
+
+Top 10 Features in era8 according to correlation with target:
+feature_dexterity4     0.081511
+feature_dexterity7     0.077055
+feature_dexterity11    0.073648
+feature_dexterity6     0.071813
+feature_wisdom31       0.068954
+feature_wisdom39       0.065478
+feature_wisdom38       0.063901
+feature_wisdom37       0.061059
+feature_strength16     0.056206
+feature_wisdom36       0.055584
+Name: target, dtype: float64
+
+Top 10 Features in era9 according to correlation with target:
+feature_charisma9     0.073570
+feature_charisma69    0.069081
+feature_charisma37    0.068794
+feature_charisma76    0.066559
+feature_charisma81    0.065227
+feature_charisma19    0.063256
+feature_charisma1     0.061756
+feature_charisma18    0.059803
+feature_dexterity7    0.058090
+feature_charisma61    0.058042
+Name: target, dtype: float64
+
+Top 10 Features in era10 according to correlation with target:
+feature_constitution111    0.050411
+feature_constitution91     0.046925
+feature_constitution38     0.046728
+feature_constitution29     0.043952
+feature_constitution114    0.043356
+feature_strength37         0.043005
+feature_charisma69         0.041950
+feature_charisma9          0.041950
+feature_constitution110    0.039877
+feature_constitution68     0.039301
+Name: target, dtype: float64
+
+Top 10 Features in era11 according to correlation with target:
+feature_constitution76    0.067395
+feature_charisma58        0.065497
+feature_charisma26        0.063972
+feature_charisma65        0.062902
+feature_wisdom32          0.060713
+feature_constitution89    0.059383
+feature_charisma11        0.058871
+feature_charisma67        0.057063
+feature_strength1         0.055909
+feature_charisma56        0.054268
+Name: target, dtype: float64
+
+Top 10 Features in era12 according to correlation with target:
+feature_dexterity7        0.087459
+feature_dexterity4        0.085376
+feature_dexterity6        0.059463
+feature_dexterity11       0.055298
+feature_constitution51    0.042771
+feature_strength25        0.042705
+feature_intelligence7     0.040490
+feature_strength31        0.038980
+feature_constitution91    0.038676
+feature_intelligence6     0.037945
+Name: target, dtype: float64
+
+Top 10 Features in era13 according to correlation with target:
+feature_charisma63        0.059036
+feature_charisma85        0.049600
+feature_strength8         0.047562
+feature_wisdom8           0.045322
+feature_wisdom26          0.043625
+feature_constitution16    0.041323
+feature_constitution53    0.041150
+feature_constitution95    0.040975
+feature_strength28        0.038146
+feature_strength9         0.037732
+Name: target, dtype: float64
+
+Top 10 Features in era14 according to correlation with target:
+feature_charisma33        0.058721
+feature_charisma14        0.051135
+feature_constitution76    0.050804
+feature_constitution89    0.045507
+feature_constitution70    0.043572
+feature_constitution41    0.042286
+feature_charisma42        0.040961
+feature_constitution58    0.038606
+feature_constitution64    0.038308
+feature_constitution98    0.038308
+Name: target, dtype: float64
+
+Top 10 Features in era15 according to correlation with target:
+feature_intelligence5     0.074547
+feature_intelligence12    0.072121
+feature_intelligence7     0.059990
+feature_constitution90    0.058919
+feature_strength7         0.057240
+feature_strength35        0.056948
+feature_intelligence6     0.052933
+feature_constitution72    0.050610
+feature_charisma78        0.048428
+feature_constitution88    0.048207
+Name: target, dtype: float64
+
+Top 10 Features in era16 according to correlation with target:
+feature_strength35         0.089976
+feature_strength7          0.074543
+feature_dexterity4         0.069159
+feature_constitution112    0.065571
+feature_dexterity7         0.064754
+feature_constitution60     0.063984
+feature_strength33         0.063764
+feature_strength26         0.062281
+feature_strength14         0.062065
+feature_strength34         0.057792
+Name: target, dtype: float64
+
+Top 10 Features in era17 according to correlation with target:
+feature_wisdom40          0.050690
+feature_wisdom41          0.046916
+feature_strength22        0.045063
+feature_charisma51        0.043874
+feature_constitution30    0.043649
+feature_constitution42    0.043167
+feature_intelligence5     0.043138
+feature_charisma31        0.042743
+feature_wisdom44          0.041057
+feature_strength9         0.040782
+Name: target, dtype: float64
+
+Top 10 Features in era18 according to correlation with target:
+feature_constitution68    0.058913
+feature_constitution92    0.058857
+feature_wisdom32          0.055953
+feature_constitution99    0.055748
+feature_constitution94    0.054279
+feature_constitution58    0.053598
+feature_constitution86    0.051139
+feature_strength30        0.050484
+feature_constitution16    0.046197
+feature_charisma58        0.044432
+Name: target, dtype: float64
+
+Top 10 Features in era19 according to correlation with target:
+feature_dexterity7         0.060297
+feature_constitution90     0.054352
+feature_constitution72     0.052507
+feature_constitution88     0.049900
+feature_dexterity4         0.049878
+feature_strength33         0.049193
+feature_strength35         0.047027
+feature_dexterity6         0.045888
+feature_dexterity11        0.045666
+feature_constitution103    0.043795
+Name: target, dtype: float64
+
+Top 10 Features in era20 according to correlation with target:
+feature_strength8         0.055046
+feature_charisma32        0.050693
+feature_charisma48        0.047711
+feature_strength1         0.047036
+feature_charisma78        0.045687
+feature_charisma10        0.044533
+feature_strength28        0.041681
+feature_strength33        0.041226
+feature_constitution41    0.041112
+feature_charisma54        0.040972
+Name: target, dtype: float64
+
+Top 10 Features in era21 according to correlation with target:
+feature_constitution58    0.049678
+feature_charisma22        0.046883
+feature_constitution68    0.045822
+feature_charisma44        0.042209
+feature_charisma74        0.041287
+feature_constitution33    0.040902
+feature_charisma65        0.040749
+feature_charisma14        0.040256
+feature_constitution9     0.038402
+feature_charisma60        0.038330
+Name: target, dtype: float64
+
+Top 10 Features in era22 according to correlation with target:
+feature_dexterity7        0.098689
+feature_dexterity4        0.094902
+feature_dexterity14       0.057707
+feature_dexterity6        0.056370
+feature_dexterity12       0.055256
+feature_constitution60    0.053362
+feature_dexterity3        0.051461
+feature_dexterity11       0.051245
+feature_constitution33    0.050582
+feature_constitution53    0.047408
+Name: target, dtype: float64
+
+Top 10 Features in era23 according to correlation with target:
+feature_wisdom23           0.062314
+feature_wisdom32           0.057699
+feature_wisdom15           0.055278
+feature_charisma5          0.053408
+feature_charisma78         0.052039
+feature_charisma10         0.050046
+feature_charisma79         0.049169
+feature_constitution34     0.047720
+feature_wisdom28           0.045915
+feature_constitution100    0.045504
+Name: target, dtype: float64
+
+Top 10 Features in era24 according to correlation with target:
+feature_wisdom23         0.051616
+feature_charisma57       0.048812
+feature_strength22       0.048797
+feature_strength19       0.047651
+feature_intelligence6    0.047340
+feature_strength3        0.046175
+feature_strength9        0.044150
+feature_charisma83       0.043973
+feature_charisma75       0.043865
+feature_charisma37       0.043693
+Name: target, dtype: float64
+
+Top 10 Features in era25 according to correlation with target:
+feature_strength8          0.061677
+feature_strength14         0.054908
+feature_strength28         0.054433
+feature_constitution100    0.050306
+feature_constitution83     0.050098
+feature_strength34         0.047965
+feature_strength22         0.047910
+feature_charisma8          0.047201
+feature_strength9          0.046258
+feature_wisdom6            0.045980
+Name: target, dtype: float64
+
+Top 10 Features in era26 according to correlation with target:
+feature_constitution56     0.057496
+feature_constitution110    0.057088
+feature_constitution93     0.054402
+feature_constitution102    0.053350
+feature_constitution91     0.051058
+feature_wisdom23           0.050703
+feature_wisdom32           0.049975
+feature_strength34         0.049559
+feature_strength14         0.047477
+feature_charisma74         0.043974
+Name: target, dtype: float64
+
+Top 10 Features in era27 according to correlation with target:
+feature_constitution102    0.050039
+feature_constitution91     0.045322
+feature_wisdom44           0.042904
+feature_constitution110    0.042638
+feature_constitution56     0.041834
+feature_strength7          0.041268
+feature_intelligence6      0.040570
+feature_constitution100    0.040130
+feature_strength35         0.039217
+feature_wisdom40           0.038430
+Name: target, dtype: float64
+
+Top 10 Features in era28 according to correlation with target:
+feature_dexterity7         0.042994
+feature_constitution25     0.039472
+feature_constitution71     0.039193
+feature_dexterity4         0.038957
+feature_constitution22     0.038459
+feature_constitution48     0.038055
+feature_charisma39         0.037527
+feature_constitution77     0.037245
+feature_constitution109    0.037175
+feature_charisma23         0.036026
+Name: target, dtype: float64
+
+Top 10 Features in era29 according to correlation with target:
+feature_charisma82    0.054922
+feature_charisma23    0.042301
+feature_charisma36    0.041635
+feature_strength14    0.041313
+feature_charisma9     0.041081
+feature_charisma68    0.040918
+feature_wisdom28      0.040594
+feature_wisdom27      0.038250
+feature_charisma28    0.037526
+feature_charisma55    0.037505
+Name: target, dtype: float64
+
+Top 10 Features in era30 according to correlation with target:
+feature_constitution68    0.060474
+feature_charisma10        0.059139
+feature_charisma78        0.057707
+feature_constitution58    0.057249
+feature_dexterity12       0.042398
+feature_dexterity11       0.041795
+feature_strength37        0.040521
+feature_strength1         0.040492
+feature_constitution83    0.040196
+feature_constitution89    0.039384
+Name: target, dtype: float64
+
+Top 10 Features in era31 according to correlation with target:
+feature_constitution67     0.065996
+feature_constitution111    0.064174
+feature_constitution114    0.056849
+feature_constitution38     0.050780
+feature_intelligence7      0.041801
+feature_wisdom23           0.041458
+feature_wisdom44           0.041319
+feature_intelligence6      0.040408
+feature_charisma76         0.038480
+feature_dexterity7         0.038020
+Name: target, dtype: float64
+
+Top 10 Features in era32 according to correlation with target:
+feature_charisma32         0.057955
+feature_charisma71         0.052445
+feature_dexterity6         0.051836
+feature_wisdom23           0.050237
+feature_charisma53         0.050028
+feature_charisma36         0.048079
+feature_wisdom32           0.046920
+feature_constitution72     0.046914
+feature_constitution103    0.046065
+feature_charisma29         0.045836
+Name: target, dtype: float64
+
+Top 10 Features in era33 according to correlation with target:
+feature_constitution88     0.063884
+feature_constitution12     0.053970
+feature_constitution50     0.051787
+feature_constitution101    0.049208
+feature_wisdom26           0.047378
+feature_constitution110    0.047025
+feature_constitution91     0.046324
+feature_constitution56     0.046231
+feature_constitution29     0.045835
+feature_constitution90     0.043358
+Name: target, dtype: float64
+
+Top 10 Features in era34 according to correlation with target:
+feature_dexterity7        0.056516
+feature_wisdom9           0.055377
+feature_dexterity4        0.052801
+feature_intelligence6     0.049085
+feature_strength19        0.048779
+feature_strength3         0.047603
+feature_constitution76    0.046774
+feature_constitution89    0.044792
+feature_intelligence7     0.043610
+feature_charisma61        0.043505
+Name: target, dtype: float64
+
+Top 10 Features in era35 according to correlation with target:
+feature_charisma41        0.042192
+feature_wisdom36          0.041444
+feature_wisdom42          0.040860
+feature_charisma59        0.040475
+feature_charisma17        0.040169
+feature_strength13        0.038852
+feature_constitution17    0.037565
+feature_strength5         0.035974
+feature_charisma29        0.035171
+feature_constitution48    0.035092
+Name: target, dtype: float64
+
+Top 10 Features in era36 according to correlation with target:
+feature_dexterity7     0.053890
+feature_dexterity4     0.052557
+feature_charisma66     0.048178
+feature_strength34     0.047385
+feature_charisma46     0.046267
+feature_dexterity11    0.044559
+feature_strength14     0.043181
+feature_dexterity6     0.042655
+feature_strength20     0.042507
+feature_charisma55     0.038191
+Name: target, dtype: float64
+
+Top 10 Features in era37 according to correlation with target:
+feature_constitution95    0.068629
+feature_constitution96    0.060881
+feature_constitution60    0.060766
+feature_constitution54    0.057596
+feature_wisdom22          0.057369
+feature_constitution61    0.051788
+feature_constitution45    0.049736
+feature_wisdom8           0.049732
+feature_wisdom26          0.049732
+feature_constitution87    0.048806
+Name: target, dtype: float64
+
+Top 10 Features in era38 according to correlation with target:
+feature_constitution42    0.056429
+feature_constitution30    0.049548
+feature_charisma50        0.043810
+feature_charisma13        0.041854
+feature_charisma69        0.041703
+feature_strength20        0.040454
+feature_constitution89    0.038451
+feature_charisma9         0.038029
+feature_charisma40        0.037543
+feature_wisdom41          0.037350
+Name: target, dtype: float64
+
+Top 10 Features in era39 according to correlation with target:
+feature_charisma62        0.058026
+feature_strength34        0.054188
+feature_strength14        0.053825
+feature_charisma52        0.053548
+feature_constitution59    0.053461
+feature_constitution42    0.051364
+feature_constitution81    0.050006
+feature_charisma6         0.048495
+feature_constitution21    0.044195
+feature_charisma37        0.041688
+Name: target, dtype: float64
+
+Top 10 Features in era40 according to correlation with target:
+feature_strength30        0.041014
+feature_constitution64    0.038812
+feature_constitution98    0.037739
+feature_charisma57        0.037496
+feature_intelligence7     0.036604
+feature_wisdom41          0.036473
+feature_constitution79    0.036176
+feature_wisdom21          0.035041
+feature_strength12        0.035021
+feature_wisdom5           0.034497
+Name: target, dtype: float64
+
+Top 10 Features in era41 according to correlation with target:
+feature_wisdom32          0.060839
+feature_wisdom23          0.060180
+feature_charisma3         0.044861
+feature_charisma45        0.039572
+feature_wisdom18          0.038850
+feature_wisdom25          0.034181
+feature_constitution59    0.034161
+feature_strength20        0.033369
+feature_constitution42    0.032724
+feature_constitution88    0.032339
+Name: target, dtype: float64
+
+Top 10 Features in era42 according to correlation with target:
+feature_strength25        0.055534
+feature_constitution3     0.049447
+feature_charisma11        0.046921
+feature_charisma78        0.045996
+feature_constitution23    0.044900
+feature_charisma58        0.044262
+feature_charisma10        0.042241
+feature_constitution58    0.040091
+feature_constitution68    0.039163
+feature_strength31        0.037926
+Name: target, dtype: float64
+
+Top 10 Features in era43 according to correlation with target:
+feature_constitution76     0.047922
+feature_wisdom32           0.047214
+feature_wisdom23           0.046775
+feature_constitution89     0.044727
+feature_dexterity12        0.041130
+feature_strength7          0.039282
+feature_dexterity7         0.038897
+feature_constitution111    0.037968
+feature_constitution67     0.036472
+feature_constitution29     0.036326
+Name: target, dtype: float64
+
+Top 10 Features in era44 according to correlation with target:
+feature_charisma52    0.068920
+feature_charisma62    0.065113
+feature_wisdom8       0.064805
+feature_wisdom26      0.060837
+feature_charisma46    0.054648
+feature_charisma66    0.048052
+feature_charisma6     0.047202
+feature_charisma71    0.044395
+feature_charisma28    0.044104
+feature_charisma5     0.043842
+Name: target, dtype: float64
+
+Top 10 Features in era45 according to correlation with target:
+feature_strength21        0.046124
+feature_dexterity12       0.042727
+feature_dexterity14       0.042539
+feature_charisma6         0.041444
+feature_strength11        0.040406
+feature_constitution46    0.039409
+feature_constitution67    0.038955
+feature_constitution1     0.038476
+feature_constitution96    0.037556
+feature_charisma66        0.037335
+Name: target, dtype: float64
+
+Top 10 Features in era46 according to correlation with target:
+feature_charisma48        0.043635
+feature_constitution23    0.038633
+feature_strength31        0.038276
+feature_strength25        0.036171
+feature_charisma32        0.035642
+feature_constitution3     0.035429
+feature_constitution69    0.035036
+feature_charisma36        0.034525
+feature_constitution29    0.031359
+feature_constitution30    0.031242
+Name: target, dtype: float64
+
+Top 10 Features in era47 according to correlation with target:
+feature_constitution53    0.046206
+feature_wisdom40          0.045169
+feature_charisma46        0.042698
+feature_constitution71    0.041693
+feature_strength11        0.040964
+feature_strength21        0.040417
+feature_charisma36        0.039871
+feature_wisdom9           0.038279
+feature_strength34        0.038172
+feature_charisma66        0.037834
+Name: target, dtype: float64
+
+Top 10 Features in era48 according to correlation with target:
+feature_dexterity4        0.052579
+feature_constitution94    0.052533
+feature_constitution86    0.049683
+feature_dexterity7        0.048534
+feature_strength19        0.046476
+feature_dexterity6        0.046072
+feature_charisma16        0.045124
+feature_charisma35        0.043861
+feature_dexterity11       0.043786
+feature_wisdom19          0.043273
+Name: target, dtype: float64
+
+Top 10 Features in era49 according to correlation with target:
+feature_constitution93     0.047901
+feature_charisma19         0.044842
+feature_constitution46     0.044199
+feature_constitution87     0.041304
+feature_charisma42         0.040508
+feature_constitution112    0.040371
+feature_constitution60     0.040231
+feature_dexterity4         0.039920
+feature_constitution55     0.039710
+feature_charisma17         0.039457
+Name: target, dtype: float64
+
+Top 10 Features in era50 according to correlation with target:
+feature_dexterity4     0.074764
+feature_dexterity7     0.068477
+feature_charisma76     0.060759
+feature_strength7      0.060165
+feature_charisma18     0.058547
+feature_dexterity13    0.057955
+feature_charisma37     0.054333
+feature_dexterity5     0.054216
+feature_strength34     0.052487
+feature_strength35     0.051803
+Name: target, dtype: float64
+
+Top 10 Features in era51 according to correlation with target:
+feature_charisma12         0.052774
+feature_charisma51         0.052346
+feature_charisma80         0.050554
+feature_charisma6          0.045494
+feature_charisma31         0.044410
+feature_charisma55         0.043978
+feature_charisma33         0.043645
+feature_constitution103    0.040268
+feature_charisma59         0.039975
+feature_charisma14         0.039297
+Name: target, dtype: float64
+
+Top 10 Features in era52 according to correlation with target:
+feature_charisma48        0.052963
+feature_charisma12        0.047776
+feature_charisma32        0.044724
+feature_wisdom9           0.042286
+feature_wisdom22          0.040954
+feature_strength11        0.039229
+feature_constitution68    0.037521
+feature_charisma80        0.036465
+feature_charisma66        0.035721
+feature_charisma23        0.034497
+Name: target, dtype: float64
+
+Top 10 Features in era53 according to correlation with target:
+feature_constitution71    0.054112
+feature_wisdom32          0.051532
+feature_dexterity6        0.049767
+feature_wisdom23          0.049032
+feature_strength35        0.048454
+feature_strength7         0.043092
+feature_constitution53    0.041791
+feature_constitution38    0.041287
+feature_dexterity11       0.040809
+feature_intelligence7     0.039979
+Name: target, dtype: float64
+
+Top 10 Features in era54 according to correlation with target:
+feature_strength33        0.064285
+feature_strength26        0.056911
+feature_wisdom32          0.055054
+feature_wisdom23          0.054115
+feature_strength4         0.053262
+feature_strength1         0.050989
+feature_constitution25    0.049187
+feature_constitution22    0.048376
+feature_constitution97    0.045259
+feature_strength21        0.045018
+Name: target, dtype: float64
+
+Top 10 Features in era55 according to correlation with target:
+feature_intelligence12    0.066802
+feature_intelligence5     0.063244
+feature_wisdom17          0.048201
+feature_wisdom29          0.045937
+feature_dexterity6        0.042540
+feature_constitution26    0.041951
+feature_wisdom42          0.040924
+feature_dexterity11       0.040437
+feature_wisdom36          0.039950
+feature_constitution40    0.038958
+Name: target, dtype: float64
+
+Top 10 Features in era56 according to correlation with target:
+feature_strength27        0.074468
+feature_wisdom8           0.072164
+feature_wisdom26          0.067266
+feature_strength1         0.063886
+feature_strength15        0.063249
+feature_constitution87    0.063153
+feature_strength4         0.060635
+feature_charisma67        0.060166
+feature_constitution18    0.058791
+feature_constitution60    0.056505
+Name: target, dtype: float64
+
+Top 10 Features in era57 according to correlation with target:
+feature_charisma6         0.056709
+feature_charisma54        0.051169
+feature_charisma10        0.048487
+feature_charisma46        0.044738
+feature_charisma78        0.044694
+feature_charisma66        0.043105
+feature_intelligence6     0.037601
+feature_constitution88    0.036387
+feature_charisma19        0.036366
+feature_constitution90    0.036217
+Name: target, dtype: float64
+
+Top 10 Features in era58 according to correlation with target:
+feature_dexterity4        0.086960
+feature_dexterity7        0.086312
+feature_intelligence5     0.065746
+feature_intelligence12    0.062345
+feature_constitution5     0.047103
+feature_dexterity8        0.042103
+feature_constitution57    0.041908
+feature_constitution74    0.040878
+feature_strength5         0.040872
+feature_constitution75    0.040222
+Name: target, dtype: float64
+
+Top 10 Features in era59 according to correlation with target:
+feature_constitution10    0.054951
+feature_constitution77    0.047376
+feature_constitution53    0.046653
+feature_constitution48    0.045408
+feature_constitution73    0.044869
+feature_constitution6     0.044573
+feature_constitution74    0.041607
+feature_constitution57    0.040184
+feature_constitution5     0.039738
+feature_charisma13        0.038612
+Name: target, dtype: float64
+
+Top 10 Features in era60 according to correlation with target:
+feature_charisma83         0.069627
+feature_charisma57         0.068644
+feature_strength8          0.066694
+feature_constitution106    0.065422
+feature_constitution75     0.058699
+feature_strength28         0.058152
+feature_strength15         0.057659
+feature_strength25         0.057525
+feature_strength31         0.054657
+feature_strength27         0.053223
+Name: target, dtype: float64
+
+Top 10 Features in era61 according to correlation with target:
+feature_dexterity7       0.074592
+feature_dexterity4       0.069785
+feature_dexterity6       0.059342
+feature_dexterity11      0.051717
+feature_dexterity14      0.050060
+feature_intelligence5    0.049562
+feature_dexterity12      0.048733
+feature_strength15       0.047748
+feature_strength27       0.046916
+feature_dexterity3       0.046910
+Name: target, dtype: float64
+
+Top 10 Features in era62 according to correlation with target:
+feature_constitution13     0.062120
+feature_constitution79     0.057457
+feature_constitution27     0.056499
+feature_constitution112    0.055213
+feature_constitution7      0.054671
+feature_constitution48     0.050018
+feature_constitution22     0.047526
+feature_constitution106    0.047315
+feature_constitution9      0.047168
+feature_constitution75     0.046817
+Name: target, dtype: float64
+
+Top 10 Features in era63 according to correlation with target:
+feature_intelligence12    0.075744
+feature_intelligence5     0.072066
+feature_dexterity4        0.066046
+feature_dexterity7        0.062201
+feature_strength14        0.048881
+feature_dexterity6        0.048322
+feature_strength34        0.045366
+feature_dexterity11       0.044310
+feature_wisdom11          0.044056
+feature_dexterity2        0.043350
+Name: target, dtype: float64
+
+Top 10 Features in era64 according to correlation with target:
+feature_charisma84    0.052443
+feature_charisma15    0.052233
+feature_strength22    0.051367
+feature_charisma86    0.050931
+feature_strength9     0.050530
+feature_wisdom42      0.050201
+feature_wisdom36      0.049029
+feature_strength7     0.048042
+feature_wisdom38      0.047918
+feature_charisma65    0.047277
+Name: target, dtype: float64
+
+Top 10 Features in era65 according to correlation with target:
+feature_strength28       0.056187
+feature_charisma40       0.055142
+feature_intelligence6    0.053040
+feature_strength8        0.052991
+feature_charisma61       0.051444
+feature_charisma84       0.050231
+feature_intelligence7    0.050019
+feature_strength35       0.045870
+feature_charisma86       0.045495
+feature_charisma76       0.044556
+Name: target, dtype: float64
+
+Top 10 Features in era66 according to correlation with target:
+feature_dexterity7    0.062081
+feature_strength28    0.055727
+feature_strength8     0.055555
+feature_wisdom32      0.053297
+feature_dexterity4    0.052504
+feature_charisma18    0.052086
+feature_charisma16    0.050819
+feature_wisdom23      0.050523
+feature_charisma74    0.049368
+feature_charisma35    0.048190
+Name: target, dtype: float64
+
+Top 10 Features in era67 according to correlation with target:
+feature_charisma35     0.053252
+feature_charisma40     0.052454
+feature_charisma81     0.052107
+feature_charisma76     0.051256
+feature_strength8      0.051111
+feature_strength28     0.049735
+feature_strength36     0.047961
+feature_strength10     0.047961
+feature_charisma18     0.046784
+feature_dexterity14    0.046359
+Name: target, dtype: float64
+
+Top 10 Features in era68 according to correlation with target:
+feature_charisma57    0.085734
+feature_charisma83    0.085214
+feature_charisma16    0.082843
+feature_charisma35    0.081604
+feature_charisma81    0.079549
+feature_charisma18    0.078753
+feature_charisma8     0.077409
+feature_charisma76    0.075458
+feature_charisma37    0.074129
+feature_strength28    0.072028
+Name: target, dtype: float64
+
+Top 10 Features in era69 according to correlation with target:
+feature_dexterity7        0.117443
+feature_dexterity4        0.113868
+feature_dexterity14       0.077580
+feature_dexterity12       0.075793
+feature_wisdom42          0.062735
+feature_strength19        0.058692
+feature_strength3         0.057081
+feature_charisma66        0.056608
+feature_charisma46        0.053921
+feature_constitution14    0.053463
+Name: target, dtype: float64
+
+Top 10 Features in era70 according to correlation with target:
+feature_wisdom32          0.043366
+feature_wisdom23          0.043366
+feature_charisma37        0.041431
+feature_charisma18        0.040624
+feature_charisma57        0.039814
+feature_charisma17        0.039349
+feature_constitution55    0.039056
+feature_charisma83        0.038283
+feature_charisma74        0.038032
+feature_charisma76        0.037558
+Name: target, dtype: float64
+
+Top 10 Features in era71 according to correlation with target:
+feature_wisdom32           0.062233
+feature_constitution53     0.051958
+feature_wisdom23           0.051747
+feature_charisma19         0.046321
+feature_charisma21         0.044420
+feature_charisma1          0.042984
+feature_charisma69         0.038236
+feature_constitution112    0.036598
+feature_charisma36         0.036289
+feature_constitution56     0.036106
+Name: target, dtype: float64
+
+Top 10 Features in era72 according to correlation with target:
+feature_dexterity12       0.088329
+feature_dexterity14       0.085989
+feature_constitution53    0.066966
+feature_charisma79        0.047871
+feature_strength19        0.047032
+feature_charisma5         0.044286
+feature_constitution71    0.042882
+feature_strength3         0.041177
+feature_intelligence6     0.040947
+feature_intelligence7     0.040362
+Name: target, dtype: float64
+
+Top 10 Features in era73 according to correlation with target:
+feature_charisma59        0.060445
+feature_charisma21        0.054993
+feature_charisma41        0.054844
+feature_charisma12        0.053879
+feature_strength36        0.053521
+feature_charisma80        0.053069
+feature_strength7         0.049275
+feature_charisma67        0.049019
+feature_constitution28    0.048261
+feature_strength25        0.047058
+Name: target, dtype: float64
+
+Top 10 Features in era74 according to correlation with target:
+feature_dexterity14    0.092450
+feature_dexterity12    0.091198
+feature_dexterity7     0.088682
+feature_dexterity4     0.081170
+feature_strength28     0.061452
+feature_strength8      0.057272
+feature_charisma76     0.056794
+feature_strength36     0.051163
+feature_charisma81     0.048804
+feature_charisma23     0.048479
+Name: target, dtype: float64
+
+Top 10 Features in era75 according to correlation with target:
+feature_charisma5      0.066185
+feature_dexterity14    0.063684
+feature_dexterity12    0.063058
+feature_charisma59     0.057374
+feature_dexterity8     0.053244
+feature_charisma79     0.053216
+feature_charisma41     0.051944
+feature_wisdom8        0.049940
+feature_dexterity3     0.049068
+feature_strength8      0.048284
+Name: target, dtype: float64
+
+Top 10 Features in era76 according to correlation with target:
+feature_constitution89    0.070739
+feature_constitution76    0.070539
+feature_constitution81    0.068465
+feature_dexterity7        0.067946
+feature_constitution59    0.064473
+feature_constitution42    0.059760
+feature_dexterity4        0.057983
+feature_wisdom37          0.057309
+feature_dexterity10       0.055498
+feature_wisdom36          0.053728
+Name: target, dtype: float64
+
+Top 10 Features in era77 according to correlation with target:
+feature_strength36    0.065002
+feature_strength10    0.055879
+feature_charisma10    0.055520
+feature_wisdom6       0.049873
+feature_charisma35    0.049581
+feature_strength3     0.049226
+feature_charisma3     0.048232
+feature_wisdom11      0.048063
+feature_charisma16    0.048026
+feature_wisdom23      0.047218
+Name: target, dtype: float64
+
+Top 10 Features in era78 according to correlation with target:
+feature_wisdom23       0.079813
+feature_wisdom32       0.074036
+feature_dexterity13    0.069290
+feature_strength8      0.069000
+feature_dexterity5     0.064832
+feature_strength28     0.064536
+feature_charisma85     0.060073
+feature_charisma65     0.052084
+feature_strength7      0.050615
+feature_charisma56     0.048760
+Name: target, dtype: float64
+
+Top 10 Features in era79 according to correlation with target:
+feature_intelligence7     0.079289
+feature_intelligence6     0.078175
+feature_wisdom39          0.048313
+feature_constitution28    0.048151
+feature_wisdom42          0.045021
+feature_dexterity11       0.044751
+feature_wisdom37          0.044298
+feature_strength32        0.043835
+feature_constitution11    0.043672
+feature_wisdom31          0.042995
+Name: target, dtype: float64
+
+Top 10 Features in era80 according to correlation with target:
+feature_constitution46     0.073495
+feature_wisdom23           0.069629
+feature_constitution9      0.068421
+feature_constitution33     0.067693
+feature_wisdom32           0.066702
+feature_constitution87     0.065823
+feature_constitution112    0.058723
+feature_dexterity6         0.053099
+feature_constitution60     0.053029
+feature_constitution89     0.042911
+Name: target, dtype: float64
+
+Top 10 Features in era81 according to correlation with target:
+feature_charisma76        0.067607
+feature_charisma81        0.066399
+feature_charisma40        0.064917
+feature_charisma61        0.062765
+feature_charisma18        0.060254
+feature_charisma26        0.058893
+feature_charisma37        0.055819
+feature_charisma52        0.054066
+feature_charisma30        0.053987
+feature_constitution82    0.053829
+Name: target, dtype: float64
+
+Top 10 Features in era82 according to correlation with target:
+feature_wisdom23           0.063212
+feature_wisdom32           0.057465
+feature_charisma6          0.054032
+feature_charisma54         0.052779
+feature_constitution46     0.050389
+feature_constitution112    0.048954
+feature_charisma18         0.047596
+feature_constitution41     0.047544
+feature_charisma16         0.046891
+feature_constitution87     0.045716
+Name: target, dtype: float64
+
+Top 10 Features in era83 according to correlation with target:
+feature_dexterity7        0.082343
+feature_dexterity6        0.077298
+feature_dexterity4        0.073875
+feature_dexterity11       0.064685
+feature_constitution95    0.062378
+feature_strength24        0.056829
+feature_constitution87    0.056201
+feature_constitution54    0.054085
+feature_constitution99    0.052493
+feature_strength5         0.051609
+Name: target, dtype: float64
+
+Top 10 Features in era84 according to correlation with target:
+feature_constitution72    0.051300
+feature_constitution96    0.050517
+feature_constitution14    0.048261
+feature_dexterity11       0.047283
+feature_dexterity6        0.047283
+feature_wisdom41          0.045821
+feature_charisma19        0.043729
+feature_wisdom40          0.043231
+feature_constitution90    0.040814
+feature_strength38        0.039952
+Name: target, dtype: float64
+
+Top 10 Features in era85 according to correlation with target:
+feature_wisdom32          0.040290
+feature_constitution32    0.039989
+feature_wisdom8           0.039570
+feature_charisma7         0.038163
+feature_constitution53    0.037891
+feature_wisdom26          0.036834
+feature_constitution57    0.036732
+feature_charisma72        0.036155
+feature_constitution73    0.035578
+feature_intelligence1     0.033417
+Name: target, dtype: float64
+
+Top 10 Features in era86 according to correlation with target:
+feature_dexterity6        0.073487
+feature_dexterity11       0.072941
+feature_strength5         0.055652
+feature_dexterity3        0.053296
+feature_dexterity8        0.052205
+feature_dexterity5        0.050567
+feature_constitution17    0.048035
+feature_strength13        0.046345
+feature_constitution89    0.046002
+feature_strength6         0.045936
+Name: target, dtype: float64
+
+Top 10 Features in era87 according to correlation with target:
+feature_charisma58        0.054451
+feature_charisma66        0.050879
+feature_charisma11        0.048441
+feature_charisma46        0.042100
+feature_charisma65        0.036966
+feature_constitution19    0.036817
+feature_charisma28        0.035260
+feature_constitution51    0.034424
+feature_charisma78        0.033924
+feature_constitution14    0.032399
+Name: target, dtype: float64
+
+Top 10 Features in era88 according to correlation with target:
+feature_constitution58    0.059644
+feature_constitution68    0.059465
+feature_constitution16    0.051296
+feature_constitution53    0.042866
+feature_constitution83    0.041780
+feature_charisma83        0.040607
+feature_strength9         0.039064
+feature_constitution71    0.038741
+feature_constitution40    0.037306
+feature_constitution62    0.036737
+Name: target, dtype: float64
+
+Top 10 Features in era89 according to correlation with target:
+feature_wisdom8           0.075911
+feature_wisdom26          0.073012
+feature_constitution60    0.065726
+feature_constitution87    0.063163
+feature_constitution9     0.055362
+feature_dexterity5        0.053887
+feature_constitution54    0.052995
+feature_charisma34        0.052660
+feature_dexterity13       0.052450
+feature_charisma55        0.052121
+Name: target, dtype: float64
+
+Top 10 Features in era90 according to correlation with target:
+feature_dexterity4        0.073570
+feature_dexterity7        0.072152
+feature_charisma51        0.063388
+feature_charisma31        0.058403
+feature_dexterity6        0.058324
+feature_charisma5         0.054774
+feature_dexterity11       0.053361
+feature_charisma79        0.051246
+feature_constitution31    0.050627
+feature_charisma40        0.048779
+Name: target, dtype: float64
+
+Top 10 Features in era91 according to correlation with target:
+feature_constitution33    0.047247
+feature_constitution5     0.045960
+feature_charisma15        0.045925
+feature_constitution74    0.045037
+feature_charisma46        0.043220
+feature_charisma8         0.043117
+feature_constitution31    0.043071
+feature_wisdom8           0.042607
+feature_strength28        0.041044
+feature_dexterity4        0.040262
+Name: target, dtype: float64
+
+Top 10 Features in era92 according to correlation with target:
+feature_dexterity11    0.061262
+feature_dexterity6     0.061081
+feature_dexterity3     0.059454
+feature_dexterity8     0.054395
+feature_charisma16     0.053954
+feature_charisma67     0.052151
+feature_strength33     0.049586
+feature_charisma55     0.049362
+feature_dexterity7     0.048612
+feature_charisma35     0.048449
+Name: target, dtype: float64
+
+Top 10 Features in era93 according to correlation with target:
+feature_constitution89    0.047648
+feature_charisma11        0.046388
+feature_wisdom11          0.043096
+feature_constitution76    0.041581
+feature_charisma58        0.038958
+feature_constitution23    0.038265
+feature_charisma24        0.038192
+feature_charisma53        0.036883
+feature_charisma83        0.036816
+feature_wisdom39          0.036485
+Name: target, dtype: float64
+
+Top 10 Features in era94 according to correlation with target:
+feature_strength27       0.053130
+feature_strength18       0.052931
+feature_dexterity3       0.052514
+feature_intelligence7    0.052163
+feature_intelligence6    0.051812
+feature_strength37       0.051068
+feature_dexterity8       0.050056
+feature_charisma43       0.049314
+feature_intelligence2    0.049177
+feature_strength1        0.048989
+Name: target, dtype: float64
+
+Top 10 Features in era95 according to correlation with target:
+feature_wisdom23          0.058385
+feature_constitution53    0.054195
+feature_wisdom32          0.053352
+feature_strength28        0.052938
+feature_constitution71    0.051740
+feature_strength8         0.050134
+feature_wisdom8           0.047572
+feature_constitution68    0.047102
+feature_charisma58        0.046441
+feature_intelligence7     0.045625
+Name: target, dtype: float64
+
+Top 10 Features in era96 according to correlation with target:
+feature_wisdom42          0.046450
+feature_charisma50        0.045189
+feature_charisma32        0.044893
+feature_charisma48        0.044703
+feature_constitution33    0.044045
+feature_charisma13        0.042783
+feature_constitution46    0.042606
+feature_constitution53    0.041772
+feature_wisdom36          0.041686
+feature_strength9         0.041413
+Name: target, dtype: float64
+
+Top 10 Features in era97 according to correlation with target:
+feature_charisma46        0.056127
+feature_wisdom23          0.046758
+feature_charisma33        0.046621
+feature_charisma66        0.046490
+feature_charisma14        0.044221
+feature_wisdom32          0.041867
+feature_constitution89    0.038475
+feature_strength1         0.036929
+feature_charisma31        0.036067
+feature_constitution53    0.035390
+Name: target, dtype: float64
+
+Top 10 Features in era98 according to correlation with target:
+feature_dexterity3     0.052193
+feature_dexterity11    0.051354
+feature_strength13     0.045338
+feature_dexterity6     0.044641
+feature_strength5      0.044459
+feature_dexterity8     0.044137
+feature_charisma23     0.040345
+feature_dexterity7     0.040277
+feature_dexterity4     0.039942
+feature_charisma6      0.037796
+Name: target, dtype: float64
+
+Top 10 Features in era99 according to correlation with target:
+feature_wisdom32          0.046376
+feature_wisdom23          0.045414
+feature_constitution76    0.044595
+feature_charisma27        0.043896
+feature_charisma13        0.043094
+feature_charisma4         0.042574
+feature_charisma50        0.040549
+feature_charisma8         0.039643
+feature_charisma17        0.039141
+feature_charisma77        0.038862
+Name: target, dtype: float64
+
+Top 10 Features in era100 according to correlation with target:
+feature_charisma57         0.051335
+feature_charisma83         0.048668
+feature_wisdom23           0.044766
+feature_constitution53     0.041664
+feature_constitution83     0.039879
+feature_wisdom32           0.038618
+feature_constitution100    0.038538
+feature_constitution76     0.038035
+feature_constitution89     0.037700
+feature_constitution71     0.034971
+Name: target, dtype: float64
+
+Top 10 Features in era101 according to correlation with target:
+feature_charisma14       0.044315
+feature_charisma10       0.043609
+feature_charisma31       0.041562
+feature_charisma78       0.040736
+feature_charisma15       0.040662
+feature_charisma51       0.040385
+feature_intelligence5    0.039895
+feature_charisma33       0.038861
+feature_charisma66       0.038796
+feature_charisma11       0.038326
+Name: target, dtype: float64
+
+Top 10 Features in era102 according to correlation with target:
+feature_charisma82        0.065559
+feature_charisma68        0.061295
+feature_charisma51        0.055947
+feature_charisma39        0.055423
+feature_charisma23        0.049089
+feature_charisma28        0.047964
+feature_dexterity4        0.047809
+feature_charisma31        0.047327
+feature_constitution52    0.046635
+feature_charisma81        0.046258
+Name: target, dtype: float64
+
+Top 10 Features in era103 according to correlation with target:
+feature_wisdom42          0.068149
+feature_constitution53    0.062730
+feature_constitution71    0.062055
+feature_constitution61    0.061803
+feature_wisdom36          0.061755
+feature_charisma34        0.059161
+feature_wisdom26          0.057750
+feature_constitution87    0.057091
+feature_charisma55        0.056976
+feature_constitution33    0.056340
+Name: target, dtype: float64
+
+Top 10 Features in era104 according to correlation with target:
+feature_strength5         0.053129
+feature_strength9         0.053053
+feature_strength28        0.052608
+feature_strength22        0.050314
+feature_strength7         0.049491
+feature_constitution52    0.048616
+feature_charisma38        0.047634
+feature_strength8         0.046971
+feature_constitution58    0.045468
+feature_constitution69    0.045375
+Name: target, dtype: float64
+
+Top 10 Features in era105 according to correlation with target:
+feature_dexterity12    0.161312
+feature_dexterity14    0.160793
+feature_dexterity7     0.145562
+feature_dexterity4     0.133965
+feature_dexterity6     0.118734
+feature_dexterity3     0.109214
+feature_dexterity11    0.105234
+feature_dexterity8     0.095195
+feature_dexterity13    0.084291
+feature_dexterity5     0.076502
+Name: target, dtype: float64
+
+Top 10 Features in era106 according to correlation with target:
+feature_dexterity7       0.052874
+feature_charisma76       0.052203
+feature_dexterity4       0.050998
+feature_charisma37       0.050239
+feature_charisma81       0.045938
+feature_charisma18       0.044697
+feature_charisma75       0.044037
+feature_charisma61       0.042820
+feature_charisma40       0.041285
+feature_intelligence5    0.040252
+Name: target, dtype: float64
+
+Top 10 Features in era107 according to correlation with target:
+feature_constitution48    0.056681
+feature_strength11        0.055379
+feature_constitution77    0.052996
+feature_strength21        0.048324
+feature_strength1         0.046730
+feature_strength33        0.044550
+feature_constitution25    0.044222
+feature_constitution22    0.042642
+feature_wisdom40          0.042637
+feature_wisdom41          0.042490
+Name: target, dtype: float64
+
+Top 10 Features in era108 according to correlation with target:
+feature_dexterity12    0.066748
+feature_dexterity7     0.066569
+feature_dexterity4     0.061737
+feature_dexterity11    0.061379
+feature_dexterity3     0.061379
+feature_dexterity14    0.060842
+feature_dexterity6     0.060305
+feature_dexterity8     0.050284
+feature_dexterity5     0.044379
+feature_wisdom36       0.040116
+Name: target, dtype: float64
+
+Top 10 Features in era109 according to correlation with target:
+feature_strength29        0.065605
+feature_dexterity7        0.063765
+feature_dexterity4        0.063228
+feature_strength24        0.062400
+feature_constitution23    0.060061
+feature_dexterity3        0.057317
+feature_dexterity14       0.056959
+feature_dexterity8        0.055168
+feature_strength35        0.054589
+feature_dexterity12       0.053914
+Name: target, dtype: float64
+
+Top 10 Features in era110 according to correlation with target:
+feature_dexterity8        0.058561
+feature_dexterity3        0.057171
+feature_dexterity7        0.053695
+feature_dexterity4        0.052826
+feature_wisdom40          0.049149
+feature_constitution46    0.047433
+feature_strength28        0.045802
+feature_charisma26        0.041815
+feature_charisma84        0.040918
+feature_wisdom8           0.040143
+Name: target, dtype: float64
+
+Top 10 Features in era111 according to correlation with target:
+feature_charisma29        0.065207
+feature_charisma71        0.057293
+feature_charisma61        0.054771
+feature_charisma40        0.053741
+feature_constitution87    0.051640
+feature_constitution46    0.048431
+feature_charisma31        0.047976
+feature_charisma70        0.044684
+feature_charisma36        0.044575
+feature_intelligence7     0.044455
+Name: target, dtype: float64
+
+Top 10 Features in era112 according to correlation with target:
+feature_charisma65    0.063454
+feature_charisma56    0.058896
+feature_charisma16    0.043953
+feature_charisma35    0.043427
+feature_charisma10    0.043133
+feature_charisma44    0.042864
+feature_charisma74    0.040955
+feature_charisma38    0.039115
+feature_charisma4     0.038098
+feature_charisma78    0.037915
+Name: target, dtype: float64
+
+Top 10 Features in era113 according to correlation with target:
+feature_charisma47    0.054852
+feature_charisma25    0.045981
+feature_wisdom38      0.043727
+feature_strength26    0.043209
+feature_charisma8     0.042041
+feature_charisma79    0.041610
+feature_wisdom39      0.040350
+feature_charisma5     0.038507
+feature_strength33    0.038148
+feature_wisdom42      0.037200
+Name: target, dtype: float64
+
+Top 10 Features in era114 according to correlation with target:
+feature_constitution83     0.057157
+feature_constitution100    0.050079
+feature_wisdom30           0.048239
+feature_constitution68     0.044110
+feature_constitution58     0.043758
+feature_strength3          0.042632
+feature_charisma49         0.041080
+feature_wisdom4            0.040887
+feature_strength38         0.039576
+feature_wisdom45           0.039452
+Name: target, dtype: float64
+
+Top 10 Features in era115 according to correlation with target:
+feature_dexterity4     0.080552
+feature_dexterity7     0.073517
+feature_dexterity8     0.051884
+feature_dexterity11    0.051005
+feature_strength18     0.045763
+feature_charisma54     0.045728
+feature_strength21     0.044650
+feature_dexterity6     0.043794
+feature_strength37     0.043540
+feature_strength7      0.042706
+Name: target, dtype: float64
+
+Top 10 Features in era116 according to correlation with target:
+feature_constitution46     0.059458
+feature_charisma29         0.057084
+feature_charisma71         0.056906
+feature_constitution9      0.054887
+feature_charisma40         0.052909
+feature_constitution33     0.051490
+feature_constitution112    0.050861
+feature_charisma61         0.049513
+feature_constitution60     0.049322
+feature_charisma75         0.048776
+Name: target, dtype: float64
+
+Top 10 Features in era117 according to correlation with target:
+feature_constitution53    0.057021
+feature_constitution71    0.048167
+feature_strength17        0.047396
+feature_strength6         0.041579
+feature_constitution2     0.036330
+feature_wisdom22          0.034596
+feature_constitution10    0.032842
+feature_strength3         0.031080
+feature_constitution74    0.031060
+feature_constitution24    0.030771
+Name: target, dtype: float64
+
+Top 10 Features in era118 according to correlation with target:
+feature_constitution46     0.078387
+feature_constitution33     0.076467
+feature_constitution112    0.073755
+feature_constitution87     0.067810
+feature_constitution9      0.067576
+feature_constitution60     0.056418
+feature_strength34         0.050860
+feature_strength14         0.047837
+feature_strength18         0.047485
+feature_strength7          0.047359
+Name: target, dtype: float64
+
+Top 10 Features in era119 according to correlation with target:
+feature_charisma26        0.058996
+feature_charisma67        0.054403
+feature_charisma76        0.050433
+feature_constitution3     0.050290
+feature_charisma81        0.048419
+feature_charisma82        0.048340
+feature_constitution23    0.047955
+feature_charisma18        0.047788
+feature_charisma37        0.047351
+feature_charisma55        0.044790
+Name: target, dtype: float64
+
+Top 10 Features in era120 according to correlation with target:
+feature_constitution18    0.048749
+feature_charisma83        0.047784
+feature_charisma67        0.047688
+feature_intelligence7     0.044122
+feature_charisma57        0.043947
+feature_constitution39    0.043693
+feature_charisma19        0.043458
+feature_wisdom23          0.042536
+feature_charisma26        0.042099
+feature_strength28        0.040024
+Name: target, dtype: float64
+
