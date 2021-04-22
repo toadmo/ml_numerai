@@ -13,6 +13,8 @@
     - [Data](#data)
     - [Scoring](#scoring)
     - [Feature Engineering:](#feature-engineering)
+    - [Feature Engineering Workflow (NN/RNN):](#feature-engineering-workflow-nnrnn)
+    - [Feature Engineering Workflow (LightGBM):](#feature-engineering-workflow-lightgbm)
     - [Our Models:](#our-models)
     - [Sources:](#sources)
 
@@ -88,10 +90,90 @@ We anticipated that feature engineering would be our biggest challenge in this p
 
 To combat this, we have implemented the following:
 
-1. Feature correlation with target based on era
-2. Dropping out features based on importance / correlation
+- Feature correlation with target based on era
+- Dropping out features based on importance / correlation
 
-Plotting Feature Heatmap:
+### Feature Engineering Workflow (NN/RNN):
+
+1. Identify unique features/values within the dataset
+
+```python
+# Find Unique Items Within The Training Data
+print(f'{len(trainingData.era.unique())} UNIQUE ERAS: {trainingData.era.unique()}\n')
+print(f'{len(trainingData.data_type.unique())} UNIQUE DATA TYPE: {trainingData.data_type.unique()}')
+```
+
+```python
+# Find Unique Items Within Tournament Data
+print(f'{len(tournamentData.data_type.unique())} UNIQUE DATA TYPE: {tournamentData.data_type.unique()}\n')
+print(f'{len(tournamentData.era.unique())} UNIQUE ERAS: {tournamentData.era.unique()}')
+```
+
+2. Split into train, validate, test, and live datasets
+
+```python
+# Select Validation Data Out of Tournament Dataset
+validationData = tournamentData[tournamentData.data_type=='validation']
+
+# Select Test Data Out of Tournament Dataset
+testData = tournamentData[tournamentData.data_type=='test']
+
+# Select Live Data Out of Tournament Dataset
+liveData = tournamentData[tournamentData.data_type=='live']
+```
+
+3. Plot a heatmap for analysis of the correlations of features
+
+![](/pictures/map.png)
+
+4. Plot the amount of datapoints per era
+
+![](/pictures/era.png)
+
+5. Extract unique eras, calculate correlation with targets, and choose the features with the highest correlations per era
+
+```python
+# Feature Correlation With Target Based On Era
+
+# Extract Unique Eras From Training Data
+eras = list(trainingData.era.unique())
+eraList = []
+for era in eras:
+    eraData = trainingData[trainingData.era==era]
+
+    # Calculate Correlations With Target
+    eraCorr = eraData.corr()
+    corrWithTarget = eraCorr["target"].T.apply(abs).sort_values(ascending=False)
+
+    # Select Features With Highest Correlation To The Target Variable
+    features = corrWithTarget[:20]
+    features.drop("target", inplace=True)
+
+    featureList = features.tolist()
+    eraList.append(featureList)
+```
+
+6. Create new dataset with this information
+
+```python
+    # # Write To A File
+    with open(f"Correlations Round{numerapi.NumerAPI(verbosity='info').get_current_round()}.txt",'a') as f:
+        f.write(f"Top 10 Features in {era} according to correlation with target:\n")
+        f.write(f'{features[:10]}\n\n')
+```
+
+### Feature Engineering Workflow (LightGBM):
+
+1. Drop features per epoch based on importance of features in cross validation
+
+```python
+    # reduce features by importance
+    f_imp = pd.DataFrame(sorted(zip(m_l.feature_importance(),
+                                    df_tr_processed[f_l].columns)),
+                        columns=['Value', 'Feature'])
+    col_drop = int(len(f_imp) * FEATURE_DROPOUT)
+    f_l = list(f_imp[col_drop:]['Feature'].values)
+```
 
 
 ### Our Models:
