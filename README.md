@@ -128,7 +128,7 @@ liveData = tournamentData[tournamentData.data_type=='live']
 
 4. Plot the amount of datapoints per era
 
-![](/pictures/era.png)
+![](/pictures/eras.png)
 
 5. Extract unique eras, calculate correlation with targets, and choose the features with the highest correlations per era
 
