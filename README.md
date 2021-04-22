@@ -108,4 +108,3 @@ Specifically, we chose to use LSTMs, or Long Short Term Memory cells, that, when
 ### Sources:
 
 - [Numer.ai Website](https://numer.ai/)
-- 
