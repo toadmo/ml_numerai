@@ -124,7 +124,7 @@ liveData = tournamentData[tournamentData.data_type=='live']
 
 3. Plot a heatmap for analysis of the correlations of features
 
-![](/pictures/map.png)
+![](/pictures/heatmap.png)
 
 4. Plot the amount of datapoints per era
 
