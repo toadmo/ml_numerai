@@ -13,7 +13,7 @@
     - [Data](#data)
     - [Scoring](#scoring)
     - [Feature Engineering:](#feature-engineering)
-    - [Our Model:](#our-model)
+    - [Our Models:](#our-models)
     - [Sources:](#sources)
 
 
@@ -37,7 +37,7 @@ This is the final project for **CS485: Applied Neural Networks, AY21-2**. This p
 - [X] Importing Data.
 - [X] Data Exploration
 - [X] Feature Engineering
-- [ ] Define Model
+- [X] Define Model
 - [ ] Validate Approach
 - [ ] Prepare Predictions
 - [ ] Upload Predictions
@@ -88,12 +88,20 @@ We anticipated that feature engineering would be our biggest challenge in this p
 To combat this, we have implemented the following:
 
 1. Feature correlation with target based on era
-2. 
+2. Dropping out features based on importance / correlation
 
-### Our Model:
+### Our Models:
+
+In an effort to cover more ground, we decided to each tackle a different type of model, letting us experiment with both a recurrent neural network model and a LightGBM model. 
+
+**Recurrent Neural Network**
+
 Due to the sequential nature of stock data, especially with different eras being present in the data set and the time-based fluctuation of a stock price being an integral determinant of whether to buy or sell a stock, we chose to implement a recurrent neural network as our model.
 
 Specifically, we chose to use LSTMs, or Long Short Term Memory cells, that, when compared to their counterpart the GRU, take longer to train but often yield improved performance. Due to the nature of our project being throughout the cource of a semester, we figured that we would have enough time to tune an implementation with LSTMs.
+
+**LightGBM Model**
+
 
 
 
