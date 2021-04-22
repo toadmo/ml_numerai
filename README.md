@@ -80,6 +80,7 @@ The Numerai Tournamnet porvides a free dataset. It is made of high quality finan
 > Each submission will be scored over the ~4 week duration of the round. Submissions will receive its first score starting on the Thursday after the Monday deadline and final score on Wednesday 4 weeks later for a total of 20 scores. 
 
 ### Feature Engineering:
+
 We anticipated that feature engineering would be our biggest challenge in this project for a few reasons. 
 
 1. There is a significant amount of noise in the dataset: features that do not have a high correlation with our intended output, which could cause problems while training.
@@ -89,6 +90,9 @@ To combat this, we have implemented the following:
 
 1. Feature correlation with target based on era
 2. Dropping out features based on importance / correlation
+
+Plotting Feature Heatmap:
+
 
 ### Our Models:
 
@@ -102,9 +106,10 @@ Specifically, we chose to use LSTMs, or Long Short Term Memory cells, that, when
 
 **LightGBM Model**
 
-
-
+Upon further research, we found that tree based learning algorithms were also popular, such as random forests and gradient boosting frameworks. We settled specifically on LightGBM due to it's ability to handle large-scale data and success with heterogeneous table-based data. 
 
 ### Sources:
 
 - [Numer.ai Website](https://numer.ai/)
+- [LightGBM Documentation](https://lightgbm.readthedocs.io/en/latest/)
+- [LightGBM Tutorial](https://www.youtube.com/watch?v=icDvc2ZLjXs&ab_channel=RyanBell)
